@@ -9,7 +9,7 @@
 *  [Программирование](Subjects/programming.md)
 *  [Дискретная математика](Subjects/discrete.md)
 *  [Алгоритмы и структуры данных](Subjects/algorithms.md)
-*  [Архиктетура ЭВМ](Subjects/ecm.md)
+*  [Архитектура ЭВМ](Subjects/ecm.md)
 *  [Введение в цифровую культуру и программирование](Subjects/digit_culture.md)
 *  [Английский язык](https://vk.com/fltc.itmo)
 *  [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
