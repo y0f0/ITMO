@@ -7,6 +7,8 @@
 
 **Преподаватель:** Буланова Нина Сергеевна 
 
+**Формат:** дистанционно (стрим на твиче)
+
 [Литература и материалы!](https://drive.google.com/drive/u/0/folders/19WCKf3qU5VC0JrMJ-EqwvDkFLOi1lOQb)
 
 [Гугол док с оценками](https://docs.google.com/spreadsheets/d/1s_6PV40fFa0zKhZjKVN-v3FM9e0g05HGaTDSRmRgDLU/edit#gid=1728556842)

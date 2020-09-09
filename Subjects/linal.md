@@ -14,6 +14,8 @@ moskalenko.mary@gmail.com
 
 **Преподаватель:** 	Свинцов Михаил Викторович  
 
+**Формат:** очно
+
 [Домашние задания](https://geolin.ru/milestones/home/homeworks)
 
 ### Лабы
