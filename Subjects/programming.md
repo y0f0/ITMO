@@ -6,5 +6,5 @@
 
 **Формат:** очно + трансляция в зуме (ссылка в чате) 
 
-[Литература и материалы!](https://drive.google.com/drive/u/0/folders/15FHIhLcpxFBHsXIf4jdL7EfyNCMHJpyl)
+[Литература и материалы!](https://drive.google.com/drive/folders/1FrQQVU_KeBrz923K8c5_8L1d-aa6VStn)
 
