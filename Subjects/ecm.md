@@ -2,7 +2,7 @@
 
 ## 1 семестр
 
-[Литература и материалы](https://drive.google.com/drive/folders/1z-Bcr6_LFumjawU0aZnQm9p5m00Z3kJI)
+[Лабы тут](https://drive.google.com/drive/folders/1z-Bcr6_LFumjawU0aZnQm9p5m00Z3kJI)
 
 ### Лекции 
 **Преподаватель:** Владислав Вячеславович Повышев
