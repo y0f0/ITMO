@@ -4,6 +4,8 @@
 
 Учебные дисциплины:
 
+*  [БАРС](https://bars.itmo.ru/bars/disciplines)
+
 *  [Линейная алгебра](Subjects/linal.md)
 *  [Математический анализ](Subjects/matan.md)
 *  [Программирование](Subjects/programming.md)
