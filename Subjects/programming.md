@@ -1,19 +1,15 @@
 # Программирование на С и С++
 
-## 1 Семестр 
+## 2 Семестр 
 ### Лекции
 
 **Преподаватель:** Хвастунов Александр Павлович
-
-**Формат:** очно + трансляция в зуме (ссылка в чате) 
 
 [Записи лекции тут](https://drive.google.com/drive/folders/1FrQQVU_KeBrz923K8c5_8L1d-aa6VStn)
 
 
 ### Практики 
 
-**Преподаватель:** Владислав Вячеславович Повышев
+**Преподаватель:** Кравцов Никита Олегович 
 
-**Формат:** очно 
-
-[Лабы здесь](https://drive.google.com/drive/folders/1DQ2dG2zc1VvkysOvDugs8krduhUKwGVr)
+[Лабы здесь](https://drive.google.com/drive/folders/1jmmZsH7u3udkW3QCbpuSHM5DdE1D5TZW)
