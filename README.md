@@ -6,7 +6,7 @@
 Учебные дисциплины:
 
 *  [Линейная алгебра](Subjects/linal.md)
-*  [Математический анализ](Subjects/mAtan.md)
+*  [Математический анализ](Subjects/matan.md)
 *  [Программирование](Subjects/programming.md)
 *  [Дискретная математика](Subjects/discrete.md)
 *  [Алгоритмы и структуры данных](Subjects/algorithms.md)
