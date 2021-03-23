@@ -5,7 +5,7 @@
 
 **Преподаватель:** Хвастунов Александр Павлович
 
-[Записи лекции тут]()
+[Записи лекции тут](https://www.youtube.com/playlist?list=PLm7YiIPwt88CyDpHgmhO0gRNSGaHXne9J)
 
 
 ### Практики 

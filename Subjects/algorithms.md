@@ -5,8 +5,6 @@
 
 **Преподаватель:** Буланова Нина Сергеевна 
 
-[Литература и материалы!](https://drive.google.com/drive/u/0/folders/19WCKf3qU5VC0JrMJ-EqwvDkFLOi1lOQb)
-
 [Гугол док с оценками](https://docs.google.com/spreadsheets/d/1pebK1mKc5BNyNZmPyqqMYgQ5gn6ptTENzsajICKwSIo/edit#gid=0)
 
 [Гугод док с планами Дискра + АиСД](https://docs.google.com/spreadsheets/d/1L2ja62S3xaAG9tGxOjSkV_20swbb0-o051aTwjcLyiA/edit#gid=1919232126)
