@@ -13,3 +13,19 @@
 
 **Преподаватель:** Зинчик Александр Адольфович
 
+[таблица с баллами](https://docs.google.com/spreadsheets/d/1CAOXduZx6lAGMBsNgSsc5Aw2Vtj5ftLHGk1bj6upYuc/edit#gid=0)
+
+### Презентации
+* [Механика_Л1-2_КинМатТ](Subjects\Physics\Механика_Л1-2_КинМатТ.pdf)
+
+* [Механика_Л3_ДинМатТ](Subjects\Physics\Механика_Л3_ДинМатТ.pdf)
+
+* [Механика_Л4_ЗаконыСохр](Subjects\Physics\Механика_Л4_ЗаконыСохр.pdf)
+
+* [Механика_Л5_ЗакСохр](Subjects\Physics\Механика_Л5_ЗакСохр.pdf)
+
+* [Механика_Л6_ДинВращДвиж](Subjects\Physics\Механика_Л6_ДинВращДвиж.pdf)
+
+* [Механика_Л7_НеИСО](Subjects\Physics\Механика_Л7_НеИСО.pdf)
+
+* [Механика_Л8_СТО](Subjects\Physics\Механика_Л8_СТО.pdf)
